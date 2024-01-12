@@ -1,0 +1,20 @@
+# Following are the packages needed for ModSecurity WAF setup.
+
+apt-utils
+autoconf
+automake
+build-essential
+pkgconf
+wget
+git
+
+libcurl4-openssl-dev
+libgeoip-dev
+liblmdb-dev
+libpcre++-dev
+libtool
+libxml2-dev
+libyajl-dev
+zlib1g-dev
+
+nginx-light
